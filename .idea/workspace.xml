@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe1052bf-6c4d-4ba3-92af-1662f88c8ac7" name="Default Changelist" comment="" />
+    <list default="true" id="fe1052bf-6c4d-4ba3-92af-1662f88c8ac7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +16,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Z00iXMsg6qcSdel0L2jzUNdAgF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -72,7 +78,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583960831406</updated>
-      <workItem from="1583960837981" duration="4219000" />
+      <workItem from="1583960837981" duration="4986000" />
+      <workItem from="1584370574558" duration="863000" />
     </task>
     <servers />
   </component>
@@ -96,5 +103,9 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="212" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1583966904747" />
+    <state x="465" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1584377180096">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="465" y="243" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1584377180096" />
   </component>
 </project>
