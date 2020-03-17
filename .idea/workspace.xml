@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="fe1052bf-6c4d-4ba3-92af-1662f88c8ac7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaSSLClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaSSLServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/examplestore" beforeDir="false" afterPath="$PROJECT_DIR$/src/examplestore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +36,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
   </component>
-  <component name="RunManager" selected="Application.JavaSSLServer">
+  <component name="RunManager" selected="Application.JavaSSLClient">
     <configuration name="JavaSSLClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaSSLClient" />
       <module name="Øving 5" />
@@ -68,8 +71,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JavaSSLServer" />
         <item itemvalue="Application.JavaSSLClient" />
+        <item itemvalue="Application.JavaSSLServer" />
         <item itemvalue="Application.UDPClient" />
         <item itemvalue="Application.UDPServer" />
       </list>
@@ -98,7 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583960831406</updated>
       <workItem from="1583960837981" duration="4986000" />
-      <workItem from="1584370574558" duration="5327000" />
+      <workItem from="1584370574558" duration="7296000" />
     </task>
     <servers />
   </component>
@@ -106,26 +109,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="516" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584480369660">
+    <state x="516" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584482737028">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="516" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1584480369660" />
-    <state width="1493" height="167" key="GridCell.Tab.0.bottom" timestamp="1584480497848">
+    <state x="516" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1584482737028" />
+    <state width="1493" height="123" key="GridCell.Tab.0.bottom" timestamp="1584482415268">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="167" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1584480497848" />
-    <state width="1493" height="167" key="GridCell.Tab.0.center" timestamp="1584480497847">
+    <state width="1493" height="123" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1584482415268" />
+    <state width="1493" height="123" key="GridCell.Tab.0.center" timestamp="1584482415267">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="167" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1584480497847" />
-    <state width="1493" height="167" key="GridCell.Tab.0.left" timestamp="1584480497846">
+    <state width="1493" height="123" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1584482415267" />
+    <state width="1493" height="123" key="GridCell.Tab.0.left" timestamp="1584482415267">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="167" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1584480497846" />
-    <state width="1493" height="167" key="GridCell.Tab.0.right" timestamp="1584480497847">
+    <state width="1493" height="123" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1584482415267" />
+    <state width="1493" height="123" key="GridCell.Tab.0.right" timestamp="1584482415268">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="167" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1584480497847" />
+    <state width="1493" height="123" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1584482415268" />
     <state x="465" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1584377180096">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
